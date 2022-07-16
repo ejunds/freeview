@@ -1,0 +1,81 @@
+#EXTM3U tvg-url="https://raw.githubusercontent.com/MIFNtechnology/freeview/mifnTv/ch-1.m3u/Jellyfin_Plugins/manifest.json"
+
+
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="103" tvg-name="TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706164.m3u8
+
+
+#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7/DIDIKTV" tvg-logo="https://i.imgur.com/uKN1okT.png",NTV7/DIDIKTV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+
+#EXTINF:-1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png",DRAMA SANGAT
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509.m3u8
+
+
+#EXTINF:-1 tvg-chno="8" tvg-id="(no tvg-id)" tvg-name="IKLIM" tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg",IKLIM
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706173.m3u8
+
+
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706165.m3u8
+
+
+#EXTINF:-1 tvg-id="617" tvg-name="Nick jr" tvg-logo="https://pbs.twimg.com/profile_images/1478805340212838413/YAJM_fei_400x400.jpg" group-title="mifnTv",Nick jr
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528649.m3u8
+
+
+#EXTINF:-1 tvg-id="616" tvg-name="NICKELODEON hd" tvg-logo="https://i.ytimg.com/vi/OYkwp6AimxA/maxresdefault.jpg",NICKELODEON hd
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528650.m3u8
+
+
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",AstrokCeria
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
+
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png",Dreamwork HD
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528655.m3u8
+
+
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png",Cartoon Network
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528648.m3u8
+
+
+#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg",SUKAN RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BES RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+
+ 
+
